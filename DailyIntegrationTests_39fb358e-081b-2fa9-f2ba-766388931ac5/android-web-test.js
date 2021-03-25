@@ -14,7 +14,7 @@ const kobitonServerConfig = {
 }
 
 const desiredCaps = {
-  sessionName:        '39fb35cf-7fb3-2356-7616-d7fccd7d522c',
+  sessionName:        '39fb358e-081b-2fa9-f2ba-766388931ac5_39fb35cf-7fb3-2356-7616-d7fccd7d522c',
   sessionDescription: 'Connection To JIra using Basic Auth', 
   deviceOrientation:  'portrait',  
   captureScreenshots: true, 

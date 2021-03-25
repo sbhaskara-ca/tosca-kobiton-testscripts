@@ -14,7 +14,7 @@ const kobitonServerConfig = {
 }
 
 const desiredCaps = {
-  sessionName:        '39fb5d91-2116-642f-cf04-303192969aaf',
+  sessionName:        '39fb358e-081b-2fa9-f2ba-766388931ac5_39fb5d91-2116-642f-cf04-303192969aaf',
   sessionDescription: 'Test another button', 
   deviceOrientation:  'portrait',  
   captureScreenshots: true, 
